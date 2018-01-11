@@ -1,0 +1,90 @@
+/* pages/main/main.wxss */
+.vtitle{
+  padding: 20px;
+}
+.titleimg{
+  float: right;
+  width: 50px;
+  height: 50px;
+}
+.titlename{
+  float: left;
+  font-size: 25px;
+}
+.txtname{
+  float: left;
+  font-size: 25px;
+  color: #000;
+}
+.txttype{
+  float: left;
+  font-size: 15px;
+  color: #888;
+}
+
+.vline{
+  padding: 0px 20px;
+}
+.linev{
+  border: dashed 0.5px #888;
+}
+
+.vaddress{
+  padding: 20px 20px 0px 20px;
+}
+.txtaddress{
+  font-size: 15px;
+  color: #444;
+  margin: 0 10px;
+}
+
+.vtime{
+  padding: 20px 20px 0px 20px;
+}
+.txttime{
+  font-size: 15px;
+  color: #444;
+  margin: 10px;
+}
+
+.vtel{
+  padding: 20px 20px 0px 20px;
+}
+.txttel{
+  font-size: 15px;
+  color: #444;
+  margin: 10px;
+}
+
+.vpic{
+  padding: 20px 20px 0px 20px;
+}
+.txtpic{
+  font-size: 15px;
+  color: #444;
+  margin: 10px;
+}
+
+.vpics{
+  padding: 10px 20px 0px 20px;
+}
+.img{
+  float: left;
+  height: 100px;
+  width: 31%;
+  padding: 3px;
+}
+
+.imgiconleft{
+  float: left;
+  width: 20px;
+  height: 20px;
+}
+.imgiconright{
+  float: right;
+  width: 20px;
+  height: 20px;
+}
+.clear{
+  clear: both;
+}

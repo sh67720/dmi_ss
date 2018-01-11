@@ -1,0 +1,44 @@
+<!--pages/main/main.wxml-->
+<scroll-view scroll-y>
+  <view>
+    <view class='vtitle'>
+      <image class='titleimg' src="/images/icon_dmi.jpg" mode="scaleToFill"></image>
+      <view class='titlename'>
+        <text class='txtname'>{{companyname}}</text>
+        <view class='clear'></view>
+        <text class='txttype'>{{companytype}}</text>
+      </view>
+      <view class='clear'></view>
+    </view>
+    <view class='vline'>
+      <view class='linev'></view>
+    </view>
+    <view bindtap="tomap" class='vaddress'>
+      <image class='imgiconright' src="/images/icon_toright.png" mode="scaleToFill"></image>
+      <image class='imgiconleft' src="/images/icon_map.png" mode="scaleToFill"></image>
+      <text class='txtaddress'>{{companyaddress}}</text>
+      <view class='clear'></view>
+    </view>
+    <view class='vtime'>
+      <image class='imgiconleft' src="/images/icon_time.png" mode="scaleToFill"></image>
+      <text class='txttime'>{{companytime}}</text>
+      <view class='clear'></view>
+    </view>
+    <view bindtap="calling" class='vtel'>
+      <image class='imgiconright' src="/images/icon_toright.png" mode="scaleToFill"></image>
+      <image class='imgiconleft' src="/images/icon_phone.png" mode="scaleToFill"></image>
+      <text class='txttel'>{{companytel}}</text>
+      <view class='clear'></view>
+    </view>
+    <view class='vpic'>
+      <image class='imgiconleft' src="/images/icon_pic.png" mode="scaleToFill"></image>
+      <text class='txtpic'>{{companypic}}</text>
+      <view class='clear'></view>
+    </view>
+    <view class='vpics'>
+      <view class="vimgs" wx:for="{{array}}" wx:for-item="item">
+        <image bindtap="bindViewTap" class='img' mode="{{item.mode}}" src="{{item.src}}" id='{{index}}'></image>
+      </view>
+    </view>
+  </view>
+</scroll-view>

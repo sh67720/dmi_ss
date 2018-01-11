@@ -1,0 +1,4 @@
+/* pages/picshow/picshow.wxss */
+.img{
+  width: 100%
+}

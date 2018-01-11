@@ -1,0 +1,3 @@
+<!--pages/picshow/picshow.wxml-->
+<text>{{src}}</text>
+<image class='img' src='{{src}}' mode='aspectFit'></image>
