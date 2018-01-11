@@ -15,44 +15,44 @@ Page({
     companylongitude: 121.425923,
 
     imagelist: [
-      'http://www.shdmi.cn/upload/pic1.png',
-      'http://www.shdmi.cn/upload/pic2.png',
-      'http://www.shdmi.cn/upload/pic3.png',
-      'http://www.shdmi.cn/upload/pic4.png',
-      'http://www.shdmi.cn/upload/pic5.png',
-      'http://www.shdmi.cn/upload/pic6.png',
-      'http://www.shdmi.cn/upload/pic7.png',
-      'http://www.shdmi.cn/upload/pic8.png',
-      'http://www.shdmi.cn/upload/pic9.png'
+      'http://img.shdmi.cn/dmiss/pic1.jpg',
+      'http://img.shdmi.cn/dmiss/pic2.jpg',
+      'http://img.shdmi.cn/dmiss/pic3.jpg',
+      'http://img.shdmi.cn/dmiss/pic4.jpg',
+      'http://img.shdmi.cn/dmiss/pic5.jpg',
+      'http://img.shdmi.cn/dmiss/pic6.jpg',
+      'http://img.shdmi.cn/dmiss/pic7.jpg',
+      'http://img.shdmi.cn/dmiss/pic8.jpg',
+      'http://img.shdmi.cn/dmiss/pic9.jpg'
     ],
 
     array: [{
       mode: 'aspectFill',
-      src: 'http://www.shdmi.cn/upload/pic1.png'
+      src: 'http://img.shdmi.cn/dmiss/pic1.jpg'
     }, {
       mode: 'aspectFill',
-      src: 'http://www.shdmi.cn/upload/pic2.png'
+      src: 'http://img.shdmi.cn/dmiss/pic2.jpg'
     }, {
       mode: 'aspectFill',
-      src: 'http://www.shdmi.cn/upload/pic3.png'
+      src: 'http://img.shdmi.cn/dmiss/pic3.jpg'
     }, {
       mode: 'aspectFill',
-      src: 'http://www.shdmi.cn/upload/pic4.png'
+      src: 'http://img.shdmi.cn/dmiss/pic4.jpg'
     }, {
       mode: 'aspectFill',
-      src: 'http://www.shdmi.cn/upload/pic5.png'
+      src: 'http://img.shdmi.cn/dmiss/pic5.jpg'
     }, {
       mode: 'aspectFill',
-      src: 'http://www.shdmi.cn/upload/pic6.png'
+      src: 'http://img.shdmi.cn/dmiss/pic6.jpg'
     }, {
       mode: 'aspectFill',
-      src: 'http://www.shdmi.cn/upload/pic7.png'
+      src: 'http://img.shdmi.cn/dmiss/pic7.jpg'
     }, {
       mode: 'aspectFill',
-      src: 'http://www.shdmi.cn/upload/pic8.png'
+      src: 'http://img.shdmi.cn/dmiss/pic8.jpg'
     }, {
       mode: 'aspectFill',
-      src: 'http://www.shdmi.cn/upload/pic9.png'
+      src: 'http://img.shdmi.cn/dmiss/pic9.jpg'
     }]
   },
 
