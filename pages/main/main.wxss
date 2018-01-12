@@ -31,6 +31,8 @@
 
 .vaddress{
   padding: 20px 20px 0px 20px;
+
+  line-height:18px; height:18px;
 }
 .txtaddress{
   font-size: 15px;
@@ -40,6 +42,8 @@
 
 .vtime{
   padding: 20px 20px 0px 20px;
+
+  line-height:18px; height:18px;
 }
 .txttime{
   font-size: 15px;
@@ -49,6 +53,8 @@
 
 .vtel{
   padding: 20px 20px 0px 20px;
+
+  line-height:18px; height:18px;
 }
 .txttel{
   font-size: 15px;
@@ -58,6 +64,8 @@
 
 .vpic{
   padding: 20px 20px 0px 20px;
+
+  line-height:18px; height:18px;
 }
 .txtpic{
   font-size: 15px;
@@ -77,13 +85,13 @@
 
 .imgiconleft{
   float: left;
-  width: 20px;
-  height: 20px;
+  width: 18px;
+  height: 18px;
 }
 .imgiconright{
   float: right;
-  width: 20px;
-  height: 20px;
+  width: 18px;
+  height: 18px;
 }
 .clear{
   clear: both;

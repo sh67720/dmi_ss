@@ -11,8 +11,8 @@ Page({
     companytime: '09:00-18:00',
     companytel: '13311905678',
     companypic: '作品照片',
-    companylatitude: 31.14337,
-    companylongitude: 121.425923,
+    companylatitude: 31.137100,
+    companylongitude: 121.419360,
 
     imagelist: [
       'http://img.shdmi.cn/dmiss/pic1.jpg',

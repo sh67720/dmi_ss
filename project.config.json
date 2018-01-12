@@ -10,7 +10,7 @@
 	"compileType": "miniprogram",
 	"libVersion": "1.9.1",
 	"appid": "wx6200461f2f8c3645",
-	"projectname": "dmi",
+	"projectname": "dmi_ss",
 	"isGameTourist": false,
 	"condition": {
 		"search": {
